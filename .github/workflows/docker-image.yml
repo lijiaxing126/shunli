@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: xingfu666/facai1
+          tags: xingfu666/facai1 
